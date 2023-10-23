@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "14.0"
 
   spec.source       = { :git => "https://github.com/Akshay2135/FocusState.git", :tag => spec.version.to_s }
-  spec.source_files  = "FocusState/FocusState/*.{h,swift}"
+  spec.source_files  = "FocusState/*.{h,swift}"
   spec.swift_versions = "5.0"
 
 end
