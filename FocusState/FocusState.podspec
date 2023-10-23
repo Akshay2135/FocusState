@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.description  = "https://medium.com/@chavanakshay.d/focusstate-backport-for-ios-14-9a377f346ecc"
 
   spec.homepage     = "https://github.com/Akshay2135/FocusState"
-  spec.license      = "MIT"
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "Akshay Chavan" => "a.diliprao.chavan@accenture.com" }
   spec.platform     = :ios, "14.0"
 
