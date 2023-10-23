@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
  
   spec.name         = "FocusState"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "FocusState Backport for iOS 14"
   spec.description  = "https://medium.com/@chavanakshay.d/focusstate-backport-for-ios-14-9a377f346ecc"
 
